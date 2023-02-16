@@ -1,0 +1,22 @@
+
+.navmenu li {
+    float: right;
+    padding: 2%;
+}
+#shopandlearn{
+    text-align: left;
+    
+}
+#account{
+    text-align: center;
+    margin-top: -20%;
+
+}
+#wallet{
+    text-align: left;
+    margin-top: 12%;
+
+}
+#Entertainment{
+    text-align: center;
+}
